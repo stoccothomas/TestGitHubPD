@@ -11,6 +11,8 @@ namespace ConsoleApplication1
         static void Main(string[] args)
         {
             Console.WriteLine("ver1.0");
+            Console.ReadLine();
+
         }
     }
 }
